@@ -1,0 +1,28 @@
+// import logo from './logo.svg';
+// import './App.css';
+// import { Nome, Abacate, Abacaxi } from './Componentes/Componente-test.jsx';
+// import { useState } from 'react';
+// import { ComponenteNome } from './Componentes/ComponenteNome.js';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <p>test</p>
+//       <Nome>
+//         Corinthians campeão, palmeiras sem mundial
+//       </Nome>
+//       <Abacate>
+//         Campeão 2012
+//       </Abacate>
+//       <Abacaxi
+//         nome="Jefferson"
+//         descricao="Padilha"
+//       />
+
+//       <ComponenteNome />
+
+//     </div>
+//   );
+// }
+
+//export default App;
